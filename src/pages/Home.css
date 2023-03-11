@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Alfa+Slab+One&family=Poppins:wght@300;400;600&display=swap');
+
+
+
+@media only screen and ((max-width: 768px)){
+	.container__1{
+        flex-direction: column;
+        text-align: center;
+    }
+    .img_bg_1{
+        height: 400px;
+    }
+    .header__1{
+        font-size: 30px !important;
+    }
+}
+.header__1{
+    padding-top: 5rem;
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+    font-size: 50px;
+
+}
+.header__2{
+    color: #FF6E31;
+}
+.container__1{
+    background-color: #191A19;
+}
+.img_bg_1{
+     position: relative;
+}
+@media screen and (min-width: 1400px){
+
+    .img_bg_1{
+        margin-left: 300px;
+    }
+}
+
+  
+
+
+/* CSS */
+.btn__1 {
+    padding: 10px 20px;
+    background-color:black;
+    color: white;
+    border: 2px solid #FF6E31;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .container__2{
+    background-color: #20322F;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+.parallaxx{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+    padding-top: 40px;      
+    background-color: #191A19;
+    position: relative;
+    color: white;
+  
+   
+}
+
+.down_header{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    
+    color: white;
+    background-color: black;
+    margin-bottom: 0;
+}

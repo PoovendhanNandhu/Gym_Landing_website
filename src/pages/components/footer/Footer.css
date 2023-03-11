@@ -1,0 +1,25 @@
+footer {
+  background-color: #343a40;
+  color: #f8f9fa;
+  padding: 30px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 14px;
+  margin: 0;
+}
+
+footer a {
+  color: #f8f9fa;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  color: #adb5bd;
+}
+
+footer i {
+  font-size: 24px;
+  margin: 0 10px;
+}
